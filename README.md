@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring framework and Javarush. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email - num63@yandex.ru
- or via social network - vk.com/perelshtein
+ or via social network - <a href="http://vk.com/perelshtein">vk.com/perelshtein</a>
 
 <!---
 perelshtein/perelshtein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
