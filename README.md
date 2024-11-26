@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @perelshtein
-- 👀 I’m interested in Kotlin/Java.
-- 🌱 I’m currently learning Spring and Compose.
-I also can write scripts on Pine language (TradingView), I've been trading for 1 year and wrote a bot with Wunderbit and Binance.
-- 📫 You can reach me via email - num63@yandex.ru
- or via social network - <a href="http://vk.com/perelshtein">vk.com/perelshtein</a>
+- 👋 Привет всем, меня зовут Максим.
+- 👀 Мне интересен язык Kotlin, администрирование веб-серверов, изучаю Javascript + React.
+- 📫 Для контактов в Telegram - [@perelshtein](https://t.me/perelshtein)
 
 <!---
 perelshtein/perelshtein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
