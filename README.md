@@ -1,5 +1,5 @@
 - 👋 Привет всем, меня зовут Максим.
-- 👀 Мне интересен язык Kotlin, Javascript + React, торговые роботы.
+- 👀 Мне интересен язык Kotlin, Javascript + React, администрирование серверов на Linux.
 - 📫 Для контактов в Telegram - [@perelshtein](https://t.me/perelshtein)
 
 <!---
